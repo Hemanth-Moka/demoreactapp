@@ -3,11 +3,8 @@ import React, { useState } from 'react'
 export default function Demo3() {
 
     const [name , setName] = useState ("") //String
-    // e means evnet
-    // e.target.value means specific
 
-    const handleChange = () => {
-        // console.log(e.target.value )
+    const handleChange = (e) => {
         setName(e.target.value)
     }
 

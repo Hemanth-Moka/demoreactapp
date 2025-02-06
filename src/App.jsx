@@ -10,6 +10,7 @@ import DemoClassState from './statedemo/DemoClassState'
 import Demo1 from './hooksdemo/Demo1'
 import Demo2 from './hooksdemo/Demo2'
 import Demo3 from './hooksdemo/Demo3'
+import Demo4 from './hooksdemo/Demo4'
 
 function App() {
    
@@ -28,6 +29,7 @@ function App() {
          <Demo1/>
          <Demo2></Demo2>
          <Demo3/>
+         <Demo4/>
          
         </div>
        

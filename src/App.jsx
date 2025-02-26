@@ -11,6 +11,7 @@ import Demo1 from './hooksdemo/Demo1'
 import Demo2 from './hooksdemo/Demo2'
 import Demo3 from './hooksdemo/Demo3'
 import Demo4 from './hooksdemo/Demo4'
+import Demo5 from './hooksdemo/Demo5'
 
 function App() {
    
@@ -30,6 +31,7 @@ function App() {
          <Demo2></Demo2>
          <Demo3/>
          <Demo4/>
+         <Demo5/>
          
         </div>
        

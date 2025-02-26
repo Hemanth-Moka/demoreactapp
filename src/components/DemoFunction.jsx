@@ -5,12 +5,14 @@ function DemoFunction ()
     return (
         <div>
         <h3>Functional Component DEMO</h3>
-        <p> Hemanth </p>
+        <p> Hemanth</p>
         <p>Department : CSE</p>
         <i>{location}</i>
         <i>Contact : 9121256888</i>
+        <p>{location}</p>
         </div>
     )
 }
 
 export default DemoFunction
+
